@@ -1,0 +1,16 @@
+{
+	"location": {
+		"lat": "{{toLat}}",
+		"lng": "{{tolng}}"
+	},
+	"accuracy": "{{toAcc}}",
+	"name": "{{toName}}",
+	"phone_number": "{{toPN}}",
+	"address": "{{toAdd}}",
+	"types": [
+		"shoe park",
+		"shop"
+	],
+	"website": "{{toWeb}}",
+	"language": "{{toLang}}"
+}
